@@ -10,7 +10,7 @@ keywords = ["ai", "context-engineering", "agents", "rag", "llm", "context-window
 dependencies = []
 
 [project.optional-dependencies]
-dev = ["pytest>=8.0", "ruff>=0.6"]
+dev = ["pytest>=8.0", "ruff>=0.16,<0.17"]
 
 [project.urls]
 Homepage = "https://cloudandsre.com"
