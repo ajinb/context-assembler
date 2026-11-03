@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "context-assembler"
+message: "If you use this software, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: Baby
+    given-names: Ajin
+    orcid: "https://orcid.org/0009-0007-6190-9516"
+repository-code: "https://github.com/ajinb/context-assembler"
+url: "https://cloudandsre.com"
+abstract: "A minimal, runnable reference for context engineering \u2014 typed segments, an enforced token budget, reranked selection, and compaction. Companion to cloudandsre.com."
+license: Apache-2.0
+version: "0.1.0"
+date-released: "2026-11-03"
+keywords:
+  - context-engineering
+  - llm
+  - rag
+  - token-budget
+  - ai-agents
